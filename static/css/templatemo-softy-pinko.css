@@ -954,7 +954,8 @@ parallax & home seperator
   width: 140%;
   height: 140%;
   opacity: .90;
-  background-image: url(../images/fun-facts-bg.png);
+  background-color: #c9c9c9;
+  /* background-image: url(../images/fun-facts-bg.png); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -987,8 +988,7 @@ parallax & home seperator
   height: 32px;
   top: 160px;
   left: 70%;
-  background-color: #7a7a7a;
-  /* background: url(../images/circle-dec.png) center center no-repeat; */
+  background: url(../images/circle-dec.png) center center no-repeat;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -1006,8 +1006,7 @@ parallax & home seperator
   height: 32px;
   top: 140px;
   left: 70%;
-  background-color: #7a7a7a;
-  /* background: url(../images/circle-dec.png) center center no-repeat; */
+  background: url(../images/circle-dec.png) center center no-repeat;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -1418,7 +1417,7 @@ footer
 --------------------------------------------- 
 */
 footer {
-  background-image: linear-gradient(127deg, #a759d1 0%, #8261ee 91%);
+  background-image: linear-gradient(127deg, #424242 0%, #252525 91%);
   padding-top: 30px;
 }
 
